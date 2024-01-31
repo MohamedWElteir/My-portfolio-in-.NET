@@ -28,3 +28,4 @@ C:\Users\pc\OneDrive\Documents\Projects\VS Code\.NET\FirstWebApp\obj\Debug\net8.
 C:\Users\pc\OneDrive\Documents\Projects\VS Code\.NET\FirstWebApp\obj\Debug\net8.0\FirstWebApp.pdb
 C:\Users\pc\OneDrive\Documents\Projects\VS Code\.NET\FirstWebApp\obj\Debug\net8.0\FirstWebApp.genruntimeconfig.cache
 C:\Users\pc\OneDrive\Documents\Projects\VS Code\.NET\FirstWebApp\obj\Debug\net8.0\ref\FirstWebApp.dll
+C:\Users\pc\OneDrive\Documents\Projects\VS Code\.NET\FirstWebApp\obj\Debug\net8.0\FirstWebApp.sourcelink.json
